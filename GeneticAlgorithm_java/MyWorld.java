@@ -21,7 +21,12 @@ public class MyWorld extends World {
 	private final int _numTurns = 100;
 	private final int _numGenerations = 500;
   
+	ArrayList<MyCreature> potentialParents = new ArrayList<MyCreature>();
+	ArrayList<MyCreature> potentialEliteParents = new ArrayList<MyCreature>();
 
+	Random rand = new Random();
+
+	public static final double MUTATIONPERCENT = 0.06;
   
 	/* Constructor.  
    
@@ -92,6 +97,112 @@ public class MyWorld extends World {
 		}
 		return population;
   	}
+
+  	/* Calculates the fitness of a creature for reproduction purposes
+	
+		Input : energy - energy at time of death/end of simulation
+				dead - boolean to say if a creature died or not
+				turns - number of turns before a creature died
+
+		Returns : an int corresponding to its fitness rating
+	*/
+
+  	public int calculateFitness(int energy, Boolean dead){
+  		int fitness = 0;
+
+  		if (!dead){
+  			return 500;
+  		} else {
+  			fitness = energy;
+  		}
+
+  		return fitness;
+  	}
+
+  	/* Mutates a randomly selected gene of a creature
+
+  		Input : mutatee - the creature who is to have a gene mutated
+
+  		Returns : the same creature with its gene mutated
+  	*/
+
+  	public MyCreature mutation(MyCreature mutatee){
+  		int gene = rand.nextInt(11);
+
+  		// mutate the randomly selected gene of the mutatee (flip the number eg. 90 -> 10)
+  		mutatee.chromosome[gene] = 100 - mutatee.chromosome[gene];
+  		return mutatee;
+  	}
+
+  	public int fittestParent(Boolean elitism){
+
+  		int maxFitness = 0;
+  		int fittestIndex = -9;
+
+  		//yes elitism, use potentialEliteParents list
+  		if (elitism){
+  			// work out what the maximum fitness of the potential elite population is 
+	  		for (int i = 0; i < potentialEliteParents.size(); i++){
+	  			MyCreature current = potentialEliteParents.get(i);
+	  			if (calculateFitness(current.getEnergy(), current.isDead()) > maxFitness){
+	  				maxFitness = calculateFitness(current.getEnergy(), current.isDead());
+	  			}
+	  		}
+
+	  		for (int i = 0; i < potentialEliteParents.size(); i++){
+	  			MyCreature current = potentialEliteParents.get(i);
+	  			if (calculateFitness(current.getEnergy(), current.isDead()) == maxFitness){
+	  				fittestIndex = i;
+	  			}
+	  		}
+  			return fittestIndex;
+
+  		//no elitism, use potentialParents list
+  		} else {
+  			// work out what the maximum fitness of the potential population is 
+  			for (int i = 0; i < potentialParents.size(); i++){
+	  			MyCreature current = potentialParents.get(i);
+	  			if (calculateFitness(current.getEnergy(), current.isDead()) > maxFitness){
+	  				maxFitness = calculateFitness(current.getEnergy(), current.isDead());
+	  				fittestIndex = i;
+	  			}
+	  		}
+
+	  		for (int i = 0; i < potentialParents.size(); i++){
+	  			MyCreature current = potentialParents.get(i);
+	  			if (calculateFitness(current.getEnergy(), current.isDead()) == maxFitness){
+	  				fittestIndex = i;
+	  			}
+	  		}
+
+	  		return fittestIndex;
+  		}
+  	}
+
+  	public MyCreature crossOver (MyCreature parent1, MyCreature parent2){
+
+  		int numPercepts = this.expectedNumberofPercepts();
+	   	int numActions = this.expectedNumberofActions();
+
+  		MyCreature child = new MyCreature(numPercepts, numActions);
+
+  		int point = rand.nextInt(11);
+
+  		for (int i = 0; i <= point; i++){
+  			child.chromosome[i] = parent1.chromosome[i];
+  		}
+
+  		for (int i = point; i < parent1.chromosome.length; i++){
+  			child.chromosome[i] = parent2.chromosome[i];
+  		}
+
+  		if (rand.nextDouble() < MUTATIONPERCENT){
+  			child = mutation(child);
+  		}
+
+  		return child;
+
+  	}
   
   	/* The MyWorld class must override this function, which is
 	 used to fetch the next generation of creatures.  This World will
@@ -119,6 +230,18 @@ public class MyWorld extends World {
 	 	MyCreature[] old_population = (MyCreature[]) old_population_btc;
 	 	// Create a new array for the new population
 	 	MyCreature[] new_population = new MyCreature[numCreatures];
+
+	 	ArrayList<MyCreature> eliteCreatures = new ArrayList<MyCreature>();
+
+	  	MyCreature child;
+	  	int parent1, parent2;
+	 	int elitismMax = (int)(numCreatures*0.10);
+
+	 	//populate the list of potential parents with the current population
+	 	for (int i = 0; i < old_population.length; i++){
+	 		potentialParents.add(old_population[i]);
+	 		potentialEliteParents.add(old_population[i]);
+	 	}
 	 
 	 	// Here is how you can get information about the old creatures and how
 	 	// well they did in the simulation
@@ -144,6 +267,7 @@ public class MyWorld extends World {
 		   		nSurvivors += 1;
 		   		avgLifeTime += (float) _numTurns;
 			}
+
 	 	}
 
 	 	// Right now the information is used to print some stats...but you should
@@ -162,12 +286,30 @@ public class MyWorld extends World {
 	 	// elitism, you can use old creatures in the next generation.  This
 	 	// example code uses all the creatures from the old generation in the
 	 	// new generation.
+
+	 	/*
 	 	for(int i=0;i<numCreatures; i++) {
 			new_population[i] = old_population[i];
 	 	}
+	 	*/
+
+	 	
+	 	for (int i = 0; i < old_population.length; i++){
+	 		if (i < elitismMax){
+	 			parent1 = fittestParent(true);
+	 			new_population[i] = potentialEliteParents.get(parent1);
+	 			potentialEliteParents.remove(parent1);
+	 		} else {
+	 			parent1 = fittestParent(false);
+	 			parent2 = fittestParent(false);
+	 			child = crossOver(potentialParents.get(parent1), potentialParents.get(parent2));
+	 			new_population[i] = child;
+	 			potentialParents.remove(parent1);
+	 		}
+	 	}
+
 	 
-	 
-	 	// Return new population of cratures.
+	 	// Return new population of creatures.
 	 	return new_population;
   	}
   
