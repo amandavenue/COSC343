@@ -6,14 +6,14 @@ import java.util.Random;
 * creatures chromosome and the agent function that maps creature percepts to
 * actions.  
 *
-* @author  
-* @version 1.0
-* @since   2017-04-05 
+* @author  Amanda Veldman (4389944)
+* @since   20/5/2018
 */
 public class MyCreature extends Creature {
 
     // Random number generator
     Random rand = new Random();
+    // initialise the chromosome array
     public int[] chromosome;
 
     /* Constructor to make a creatures chromosome.
@@ -57,17 +57,6 @@ public class MyCreature extends Creature {
         int numMonsters = 0;
         int avoidDirection;
 
-        int topLeft = (chromosome[3] + chromosome[0] + chromosome[1])/3;
-        int topRight = (chromosome[1] + chromosome[2] + chromosome[5])/3;
-        int bottomLeft = (chromosome[3] + chromosome[6] + chromosome[7])/3;
-        int bottomRight = (chromosome[5] + chromosome[8] + chromosome[9])/3;
-
-        /*
-        for(int i=0;i<numExpectedActions;i++) {
-            actions[i]=rand.nextFloat();
-        } 
-        */
-
         // if creature is on edible food
         if (percepts[4] == 2){
             //eat food at the probability of chromosome[9]
@@ -83,7 +72,7 @@ public class MyCreature extends Creature {
                     numMonsters++;
                 }
             }
-            // if there are no monsters around eatthe green food at the probability of chromosome[9]
+            // if there are no monsters around eat the green food at the probability of chromosome[9]
             if (numMonsters > 0 && rand.nextInt(101) < chromosome[9]){
                 actions[9] = Float.MAX_VALUE;
             }
@@ -130,7 +119,7 @@ public class MyCreature extends Creature {
             }
 
         }
-
+        // return the array of actions
         return actions;
     }
   

@@ -1,0 +1,3000 @@
+
+Generation 1:
+0
+
+Generation 2:
+0
+
+Generation 3:
+10
+
+Generation 4:
+10
+
+Generation 5:
+0
+
+Generation 6:
+20
+
+Generation 7:
+0
+
+Generation 8:
+10
+
+Generation 9:
+30
+
+Generation 10:
+10
+
+Generation 11:
+40
+
+Generation 12:
+30
+
+Generation 13:
+20
+
+Generation 14:
+10
+
+Generation 15:
+50
+
+Generation 16:
+20
+
+Generation 17:
+10
+
+Generation 18:
+30
+
+Generation 19:
+30
+
+Generation 20:
+20
+
+Generation 21:
+30
+
+Generation 22:
+20
+
+Generation 23:
+30
+
+Generation 24:
+20
+
+Generation 25:
+30
+
+Generation 26:
+10
+
+Generation 27:
+50
+
+Generation 28:
+50
+
+Generation 29:
+10
+
+Generation 30:
+0
+
+Generation 31:
+30
+
+Generation 32:
+40
+
+Generation 33:
+10
+
+Generation 34:
+60
+
+Generation 35:
+0
+
+Generation 36:
+50
+
+Generation 37:
+20
+
+Generation 38:
+30
+
+Generation 39:
+10
+
+Generation 40:
+20
+
+Generation 41:
+30
+
+Generation 42:
+10
+
+Generation 43:
+40
+
+Generation 44:
+20
+
+Generation 45:
+40
+
+Generation 46:
+30
+
+Generation 47:
+30
+
+Generation 48:
+10
+
+Generation 49:
+40
+
+Generation 50:
+20
+
+Generation 51:
+40
+
+Generation 52:
+30
+
+Generation 53:
+30
+
+Generation 54:
+40
+
+Generation 55:
+30
+
+Generation 56:
+20
+
+Generation 57:
+10
+
+Generation 58:
+40
+
+Generation 59:
+40
+
+Generation 60:
+10
+
+Generation 61:
+0
+
+Generation 62:
+20
+
+Generation 63:
+50
+
+Generation 64:
+10
+
+Generation 65:
+30
+
+Generation 66:
+20
+
+Generation 67:
+30
+
+Generation 68:
+30
+
+Generation 69:
+40
+
+Generation 70:
+60
+
+Generation 71:
+40
+
+Generation 72:
+30
+
+Generation 73:
+40
+
+Generation 74:
+30
+
+Generation 75:
+20
+
+Generation 76:
+30
+
+Generation 77:
+40
+
+Generation 78:
+60
+
+Generation 79:
+40
+
+Generation 80:
+40
+
+Generation 81:
+50
+
+Generation 82:
+80
+
+Generation 83:
+60
+
+Generation 84:
+50
+
+Generation 85:
+40
+
+Generation 86:
+40
+
+Generation 87:
+30
+
+Generation 88:
+50
+
+Generation 89:
+20
+
+Generation 90:
+40
+
+Generation 91:
+30
+
+Generation 92:
+30
+
+Generation 93:
+40
+
+Generation 94:
+20
+
+Generation 95:
+50
+
+Generation 96:
+10
+
+Generation 97:
+30
+
+Generation 98:
+40
+
+Generation 99:
+40
+
+Generation 100:
+40
+
+Generation 101:
+20
+
+Generation 102:
+20
+
+Generation 103:
+20
+
+Generation 104:
+50
+
+Generation 105:
+20
+
+Generation 106:
+40
+
+Generation 107:
+30
+
+Generation 108:
+40
+
+Generation 109:
+40
+
+Generation 110:
+10
+
+Generation 111:
+10
+
+Generation 112:
+20
+
+Generation 113:
+10
+
+Generation 114:
+30
+
+Generation 115:
+20
+
+Generation 116:
+20
+
+Generation 117:
+50
+
+Generation 118:
+30
+
+Generation 119:
+30
+
+Generation 120:
+50
+
+Generation 121:
+40
+
+Generation 122:
+30
+
+Generation 123:
+30
+
+Generation 124:
+50
+
+Generation 125:
+50
+
+Generation 126:
+20
+
+Generation 127:
+40
+
+Generation 128:
+20
+
+Generation 129:
+20
+
+Generation 130:
+20
+
+Generation 131:
+40
+
+Generation 132:
+50
+
+Generation 133:
+30
+
+Generation 134:
+30
+
+Generation 135:
+30
+
+Generation 136:
+60
+
+Generation 137:
+20
+
+Generation 138:
+10
+
+Generation 139:
+50
+
+Generation 140:
+10
+
+Generation 141:
+30
+
+Generation 142:
+0
+
+Generation 143:
+40
+
+Generation 144:
+20
+
+Generation 145:
+30
+
+Generation 146:
+50
+
+Generation 147:
+50
+
+Generation 148:
+30
+
+Generation 149:
+10
+
+Generation 150:
+40
+
+Generation 151:
+50
+
+Generation 152:
+40
+
+Generation 153:
+10
+
+Generation 154:
+20
+
+Generation 155:
+20
+
+Generation 156:
+10
+
+Generation 157:
+10
+
+Generation 158:
+30
+
+Generation 159:
+20
+
+Generation 160:
+20
+
+Generation 161:
+20
+
+Generation 162:
+30
+
+Generation 163:
+40
+
+Generation 164:
+20
+
+Generation 165:
+70
+
+Generation 166:
+10
+
+Generation 167:
+30
+
+Generation 168:
+60
+
+Generation 169:
+40
+
+Generation 170:
+20
+
+Generation 171:
+40
+
+Generation 172:
+20
+
+Generation 173:
+70
+
+Generation 174:
+30
+
+Generation 175:
+20
+
+Generation 176:
+40
+
+Generation 177:
+30
+
+Generation 178:
+40
+
+Generation 179:
+20
+
+Generation 180:
+20
+
+Generation 181:
+40
+
+Generation 182:
+30
+
+Generation 183:
+60
+
+Generation 184:
+30
+
+Generation 185:
+20
+
+Generation 186:
+40
+
+Generation 187:
+40
+
+Generation 188:
+20
+
+Generation 189:
+60
+
+Generation 190:
+30
+
+Generation 191:
+30
+
+Generation 192:
+30
+
+Generation 193:
+0
+
+Generation 194:
+10
+
+Generation 195:
+20
+
+Generation 196:
+60
+
+Generation 197:
+30
+
+Generation 198:
+10
+
+Generation 199:
+10
+
+Generation 200:
+30
+
+Generation 201:
+20
+
+Generation 202:
+30
+
+Generation 203:
+10
+
+Generation 204:
+20
+
+Generation 205:
+30
+
+Generation 206:
+20
+
+Generation 207:
+30
+
+Generation 208:
+20
+
+Generation 209:
+40
+
+Generation 210:
+40
+
+Generation 211:
+20
+
+Generation 212:
+30
+
+Generation 213:
+20
+
+Generation 214:
+10
+
+Generation 215:
+10
+
+Generation 216:
+10
+
+Generation 217:
+40
+
+Generation 218:
+60
+
+Generation 219:
+20
+
+Generation 220:
+60
+
+Generation 221:
+30
+
+Generation 222:
+50
+
+Generation 223:
+70
+
+Generation 224:
+30
+
+Generation 225:
+50
+
+Generation 226:
+30
+
+Generation 227:
+60
+
+Generation 228:
+10
+
+Generation 229:
+30
+
+Generation 230:
+10
+
+Generation 231:
+10
+
+Generation 232:
+20
+
+Generation 233:
+20
+
+Generation 234:
+50
+
+Generation 235:
+40
+
+Generation 236:
+30
+
+Generation 237:
+30
+
+Generation 238:
+40
+
+Generation 239:
+60
+
+Generation 240:
+40
+
+Generation 241:
+30
+
+Generation 242:
+40
+
+Generation 243:
+20
+
+Generation 244:
+10
+
+Generation 245:
+40
+
+Generation 246:
+30
+
+Generation 247:
+20
+
+Generation 248:
+10
+
+Generation 249:
+20
+
+Generation 250:
+30
+
+Generation 251:
+10
+
+Generation 252:
+20
+
+Generation 253:
+30
+
+Generation 254:
+40
+
+Generation 255:
+20
+
+Generation 256:
+60
+
+Generation 257:
+30
+
+Generation 258:
+30
+
+Generation 259:
+30
+
+Generation 260:
+30
+
+Generation 261:
+10
+
+Generation 262:
+40
+
+Generation 263:
+30
+
+Generation 264:
+10
+
+Generation 265:
+50
+
+Generation 266:
+50
+
+Generation 267:
+20
+
+Generation 268:
+60
+
+Generation 269:
+50
+
+Generation 270:
+30
+
+Generation 271:
+30
+
+Generation 272:
+30
+
+Generation 273:
+40
+
+Generation 274:
+20
+
+Generation 275:
+20
+
+Generation 276:
+50
+
+Generation 277:
+30
+
+Generation 278:
+50
+
+Generation 279:
+50
+
+Generation 280:
+20
+
+Generation 281:
+30
+
+Generation 282:
+40
+
+Generation 283:
+40
+
+Generation 284:
+10
+
+Generation 285:
+0
+
+Generation 286:
+40
+
+Generation 287:
+50
+
+Generation 288:
+20
+
+Generation 289:
+50
+
+Generation 290:
+20
+
+Generation 291:
+40
+
+Generation 292:
+50
+
+Generation 293:
+30
+
+Generation 294:
+0
+
+Generation 295:
+30
+
+Generation 296:
+20
+
+Generation 297:
+20
+
+Generation 298:
+40
+
+Generation 299:
+20
+
+Generation 300:
+30
+
+Generation 301:
+40
+
+Generation 302:
+20
+
+Generation 303:
+30
+
+Generation 304:
+30
+
+Generation 305:
+70
+
+Generation 306:
+50
+
+Generation 307:
+40
+
+Generation 308:
+40
+
+Generation 309:
+30
+
+Generation 310:
+10
+
+Generation 311:
+40
+
+Generation 312:
+0
+
+Generation 313:
+40
+
+Generation 314:
+30
+
+Generation 315:
+30
+
+Generation 316:
+50
+
+Generation 317:
+40
+
+Generation 318:
+50
+
+Generation 319:
+40
+
+Generation 320:
+50
+
+Generation 321:
+30
+
+Generation 322:
+20
+
+Generation 323:
+60
+
+Generation 324:
+20
+
+Generation 325:
+30
+
+Generation 326:
+20
+
+Generation 327:
+20
+
+Generation 328:
+50
+
+Generation 329:
+70
+
+Generation 330:
+90
+
+Generation 331:
+30
+
+Generation 332:
+40
+
+Generation 333:
+60
+
+Generation 334:
+10
+
+Generation 335:
+20
+
+Generation 336:
+20
+
+Generation 337:
+30
+
+Generation 338:
+50
+
+Generation 339:
+40
+
+Generation 340:
+40
+
+Generation 341:
+10
+
+Generation 342:
+40
+
+Generation 343:
+10
+
+Generation 344:
+40
+
+Generation 345:
+30
+
+Generation 346:
+20
+
+Generation 347:
+30
+
+Generation 348:
+0
+
+Generation 349:
+50
+
+Generation 350:
+70
+
+Generation 351:
+40
+
+Generation 352:
+10
+
+Generation 353:
+30
+
+Generation 354:
+50
+
+Generation 355:
+50
+
+Generation 356:
+50
+
+Generation 357:
+30
+
+Generation 358:
+20
+
+Generation 359:
+30
+
+Generation 360:
+30
+
+Generation 361:
+50
+
+Generation 362:
+30
+
+Generation 363:
+30
+
+Generation 364:
+50
+
+Generation 365:
+30
+
+Generation 366:
+40
+
+Generation 367:
+20
+
+Generation 368:
+20
+
+Generation 369:
+40
+
+Generation 370:
+30
+
+Generation 371:
+50
+
+Generation 372:
+30
+
+Generation 373:
+60
+
+Generation 374:
+20
+
+Generation 375:
+10
+
+Generation 376:
+30
+
+Generation 377:
+50
+
+Generation 378:
+40
+
+Generation 379:
+10
+
+Generation 380:
+40
+
+Generation 381:
+20
+
+Generation 382:
+70
+
+Generation 383:
+30
+
+Generation 384:
+20
+
+Generation 385:
+30
+
+Generation 386:
+20
+
+Generation 387:
+40
+
+Generation 388:
+20
+
+Generation 389:
+40
+
+Generation 390:
+30
+
+Generation 391:
+20
+
+Generation 392:
+60
+
+Generation 393:
+40
+
+Generation 394:
+40
+
+Generation 395:
+40
+
+Generation 396:
+30
+
+Generation 397:
+40
+
+Generation 398:
+10
+
+Generation 399:
+30
+
+Generation 400:
+30
+
+Generation 401:
+20
+
+Generation 402:
+30
+
+Generation 403:
+0
+
+Generation 404:
+20
+
+Generation 405:
+50
+
+Generation 406:
+50
+
+Generation 407:
+30
+
+Generation 408:
+40
+
+Generation 409:
+50
+
+Generation 410:
+60
+
+Generation 411:
+40
+
+Generation 412:
+30
+
+Generation 413:
+50
+
+Generation 414:
+20
+
+Generation 415:
+40
+
+Generation 416:
+10
+
+Generation 417:
+20
+
+Generation 418:
+60
+
+Generation 419:
+60
+
+Generation 420:
+20
+
+Generation 421:
+40
+
+Generation 422:
+40
+
+Generation 423:
+20
+
+Generation 424:
+30
+
+Generation 425:
+30
+
+Generation 426:
+20
+
+Generation 427:
+30
+
+Generation 428:
+50
+
+Generation 429:
+20
+
+Generation 430:
+30
+
+Generation 431:
+30
+
+Generation 432:
+60
+
+Generation 433:
+30
+
+Generation 434:
+30
+
+Generation 435:
+30
+
+Generation 436:
+10
+
+Generation 437:
+60
+
+Generation 438:
+40
+
+Generation 439:
+50
+
+Generation 440:
+30
+
+Generation 441:
+40
+
+Generation 442:
+40
+
+Generation 443:
+50
+
+Generation 444:
+10
+
+Generation 445:
+10
+
+Generation 446:
+20
+
+Generation 447:
+60
+
+Generation 448:
+40
+
+Generation 449:
+50
+
+Generation 450:
+60
+
+Generation 451:
+40
+
+Generation 452:
+40
+
+Generation 453:
+40
+
+Generation 454:
+40
+
+Generation 455:
+40
+
+Generation 456:
+20
+
+Generation 457:
+30
+
+Generation 458:
+50
+
+Generation 459:
+20
+
+Generation 460:
+40
+
+Generation 461:
+20
+
+Generation 462:
+30
+
+Generation 463:
+20
+
+Generation 464:
+40
+
+Generation 465:
+20
+
+Generation 466:
+50
+
+Generation 467:
+20
+
+Generation 468:
+20
+
+Generation 469:
+60
+
+Generation 470:
+40
+
+Generation 471:
+20
+
+Generation 472:
+40
+
+Generation 473:
+30
+
+Generation 474:
+50
+
+Generation 475:
+50
+
+Generation 476:
+10
+
+Generation 477:
+40
+
+Generation 478:
+60
+
+Generation 479:
+70
+
+Generation 480:
+50
+
+Generation 481:
+30
+
+Generation 482:
+20
+
+Generation 483:
+30
+
+Generation 484:
+10
+
+Generation 485:
+30
+
+Generation 486:
+20
+
+Generation 487:
+30
+
+Generation 488:
+20
+
+Generation 489:
+20
+
+Generation 490:
+20
+
+Generation 491:
+20
+
+Generation 492:
+40
+
+Generation 493:
+10
+
+Generation 494:
+20
+
+Generation 495:
+30
+
+Generation 496:
+30
+
+Generation 497:
+20
+
+Generation 498:
+30
+
+Generation 499:
+20
+
+Generation 500:
+60
+
+Generation 1:
+10
+
+Generation 2:
+30
+
+Generation 3:
+40
+
+Generation 4:
+10
+
+Generation 5:
+10
+
+Generation 6:
+0
+
+Generation 7:
+0
+
+Generation 8:
+10
+
+Generation 9:
+30
+
+Generation 10:
+20
+
+Generation 11:
+40
+
+Generation 12:
+30
+
+Generation 13:
+20
+
+Generation 14:
+20
+
+Generation 15:
+10
+
+Generation 16:
+20
+
+Generation 17:
+20
+
+Generation 18:
+20
+
+Generation 19:
+50
+
+Generation 20:
+40
+
+Generation 21:
+20
+
+Generation 22:
+20
+
+Generation 23:
+30
+
+Generation 24:
+10
+
+Generation 25:
+10
+
+Generation 26:
+20
+
+Generation 27:
+50
+
+Generation 28:
+20
+
+Generation 29:
+40
+
+Generation 30:
+50
+
+Generation 31:
+30
+
+Generation 32:
+40
+
+Generation 33:
+30
+
+Generation 34:
+10
+
+Generation 35:
+10
+
+Generation 36:
+10
+
+Generation 37:
+20
+
+Generation 38:
+30
+
+Generation 39:
+30
+
+Generation 40:
+30
+
+Generation 41:
+40
+
+Generation 42:
+30
+
+Generation 43:
+30
+
+Generation 44:
+20
+
+Generation 45:
+0
+
+Generation 46:
+70
+
+Generation 47:
+20
+
+Generation 48:
+30
+
+Generation 49:
+30
+
+Generation 50:
+20
+
+Generation 51:
+40
+
+Generation 52:
+60
+
+Generation 53:
+30
+
+Generation 54:
+50
+
+Generation 55:
+40
+
+Generation 56:
+10
+
+Generation 57:
+20
+
+Generation 58:
+40
+
+Generation 59:
+90
+
+Generation 60:
+30
+
+Generation 61:
+10
+
+Generation 62:
+20
+
+Generation 63:
+20
+
+Generation 64:
+20
+
+Generation 65:
+30
+
+Generation 66:
+50
+
+Generation 67:
+40
+
+Generation 68:
+50
+
+Generation 69:
+30
+
+Generation 70:
+20
+
+Generation 71:
+40
+
+Generation 72:
+30
+
+Generation 73:
+30
+
+Generation 74:
+30
+
+Generation 75:
+40
+
+Generation 76:
+20
+
+Generation 77:
+50
+
+Generation 78:
+10
+
+Generation 79:
+20
+
+Generation 80:
+10
+
+Generation 81:
+40
+
+Generation 82:
+40
+
+Generation 83:
+30
+
+Generation 84:
+20
+
+Generation 85:
+40
+
+Generation 86:
+50
+
+Generation 87:
+30
+
+Generation 88:
+50
+
+Generation 89:
+70
+
+Generation 90:
+20
+
+Generation 91:
+50
+
+Generation 92:
+30
+
+Generation 93:
+10
+
+Generation 94:
+20
+
+Generation 95:
+20
+
+Generation 96:
+30
+
+Generation 97:
+20
+
+Generation 98:
+70
+
+Generation 99:
+10
+
+Generation 100:
+40
+
+Generation 101:
+60
+
+Generation 102:
+10
+
+Generation 103:
+40
+
+Generation 104:
+20
+
+Generation 105:
+10
+
+Generation 106:
+20
+
+Generation 107:
+40
+
+Generation 108:
+20
+
+Generation 109:
+60
+
+Generation 110:
+40
+
+Generation 111:
+20
+
+Generation 112:
+60
+
+Generation 113:
+50
+
+Generation 114:
+40
+
+Generation 115:
+40
+
+Generation 116:
+30
+
+Generation 117:
+30
+
+Generation 118:
+10
+
+Generation 119:
+20
+
+Generation 120:
+30
+
+Generation 121:
+60
+
+Generation 122:
+30
+
+Generation 123:
+40
+
+Generation 124:
+30
+
+Generation 125:
+50
+
+Generation 126:
+20
+
+Generation 127:
+30
+
+Generation 128:
+10
+
+Generation 129:
+20
+
+Generation 130:
+30
+
+Generation 131:
+30
+
+Generation 132:
+10
+
+Generation 133:
+30
+
+Generation 134:
+10
+
+Generation 135:
+30
+
+Generation 136:
+50
+
+Generation 137:
+30
+
+Generation 138:
+10
+
+Generation 139:
+50
+
+Generation 140:
+20
+
+Generation 141:
+20
+
+Generation 142:
+20
+
+Generation 143:
+20
+
+Generation 144:
+50
+
+Generation 145:
+30
+
+Generation 146:
+20
+
+Generation 147:
+20
+
+Generation 148:
+30
+
+Generation 149:
+20
+
+Generation 150:
+30
+
+Generation 151:
+50
+
+Generation 152:
+50
+
+Generation 153:
+40
+
+Generation 154:
+50
+
+Generation 155:
+30
+
+Generation 156:
+10
+
+Generation 157:
+50
+
+Generation 158:
+20
+
+Generation 159:
+20
+
+Generation 160:
+30
+
+Generation 161:
+30
+
+Generation 162:
+20
+
+Generation 163:
+30
+
+Generation 164:
+30
+
+Generation 165:
+30
+
+Generation 166:
+20
+
+Generation 167:
+10
+
+Generation 168:
+50
+
+Generation 169:
+10
+
+Generation 170:
+30
+
+Generation 171:
+40
+
+Generation 172:
+10
+
+Generation 173:
+50
+
+Generation 174:
+40
+
+Generation 175:
+40
+
+Generation 176:
+30
+
+Generation 177:
+60
+
+Generation 178:
+40
+
+Generation 179:
+30
+
+Generation 180:
+10
+
+Generation 181:
+60
+
+Generation 182:
+20
+
+Generation 183:
+40
+
+Generation 184:
+0
+
+Generation 185:
+30
+
+Generation 186:
+40
+
+Generation 187:
+60
+
+Generation 188:
+40
+
+Generation 189:
+20
+
+Generation 190:
+60
+
+Generation 191:
+30
+
+Generation 192:
+20
+
+Generation 193:
+0
+
+Generation 194:
+30
+
+Generation 195:
+40
+
+Generation 196:
+50
+
+Generation 197:
+40
+
+Generation 198:
+0
+
+Generation 199:
+20
+
+Generation 200:
+30
+
+Generation 201:
+40
+
+Generation 202:
+50
+
+Generation 203:
+40
+
+Generation 204:
+10
+
+Generation 205:
+50
+
+Generation 206:
+40
+
+Generation 207:
+40
+
+Generation 208:
+30
+
+Generation 209:
+20
+
+Generation 210:
+50
+
+Generation 211:
+30
+
+Generation 212:
+10
+
+Generation 213:
+30
+
+Generation 214:
+0
+
+Generation 215:
+20
+
+Generation 216:
+40
+
+Generation 217:
+20
+
+Generation 218:
+30
+
+Generation 219:
+70
+
+Generation 220:
+20
+
+Generation 221:
+10
+
+Generation 222:
+20
+
+Generation 223:
+50
+
+Generation 224:
+20
+
+Generation 225:
+40
+
+Generation 226:
+60
+
+Generation 227:
+30
+
+Generation 228:
+50
+
+Generation 229:
+40
+
+Generation 230:
+60
+
+Generation 231:
+50
+
+Generation 232:
+30
+
+Generation 233:
+30
+
+Generation 234:
+20
+
+Generation 235:
+10
+
+Generation 236:
+20
+
+Generation 237:
+10
+
+Generation 238:
+30
+
+Generation 239:
+40
+
+Generation 240:
+30
+
+Generation 241:
+20
+
+Generation 242:
+20
+
+Generation 243:
+30
+
+Generation 244:
+50
+
+Generation 245:
+40
+
+Generation 246:
+20
+
+Generation 247:
+30
+
+Generation 248:
+30
+
+Generation 249:
+30
+
+Generation 250:
+30
+
+Generation 251:
+20
+
+Generation 252:
+70
+
+Generation 253:
+60
+
+Generation 254:
+20
+
+Generation 255:
+20
+
+Generation 256:
+10
+
+Generation 257:
+40
+
+Generation 258:
+30
+
+Generation 259:
+60
+
+Generation 260:
+90
+
+Generation 261:
+30
+
+Generation 262:
+40
+
+Generation 263:
+50
+
+Generation 264:
+0
+
+Generation 265:
+60
+
+Generation 266:
+40
+
+Generation 267:
+40
+
+Generation 268:
+20
+
+Generation 269:
+40
+
+Generation 270:
+30
+
+Generation 271:
+10
+
+Generation 272:
+30
+
+Generation 273:
+20
+
+Generation 274:
+50
+
+Generation 275:
+60
+
+Generation 276:
+30
+
+Generation 277:
+40
+
+Generation 278:
+30
+
+Generation 279:
+40
+
+Generation 280:
+50
+
+Generation 281:
+10
+
+Generation 282:
+40
+
+Generation 283:
+60
+
+Generation 284:
+30
+
+Generation 285:
+20
+
+Generation 286:
+40
+
+Generation 287:
+30
+
+Generation 288:
+10
+
+Generation 289:
+0
+
+Generation 290:
+40
+
+Generation 291:
+50
+
+Generation 292:
+70
+
+Generation 293:
+40
+
+Generation 294:
+10
+
+Generation 295:
+10
+
+Generation 296:
+70
+
+Generation 297:
+20
+
+Generation 298:
+50
+
+Generation 299:
+40
+
+Generation 300:
+20
+
+Generation 301:
+30
+
+Generation 302:
+20
+
+Generation 303:
+40
+
+Generation 304:
+20
+
+Generation 305:
+70
+
+Generation 306:
+30
+
+Generation 307:
+20
+
+Generation 308:
+40
+
+Generation 309:
+40
+
+Generation 310:
+30
+
+Generation 311:
+40
+
+Generation 312:
+20
+
+Generation 313:
+10
+
+Generation 314:
+40
+
+Generation 315:
+50
+
+Generation 316:
+70
+
+Generation 317:
+50
+
+Generation 318:
+40
+
+Generation 319:
+20
+
+Generation 320:
+30
+
+Generation 321:
+40
+
+Generation 322:
+20
+
+Generation 323:
+60
+
+Generation 324:
+20
+
+Generation 325:
+0
+
+Generation 326:
+30
+
+Generation 327:
+20
+
+Generation 328:
+40
+
+Generation 329:
+0
+
+Generation 330:
+20
+
+Generation 331:
+30
+
+Generation 332:
+30
+
+Generation 333:
+20
+
+Generation 334:
+50
+
+Generation 335:
+30
+
+Generation 336:
+30
+
+Generation 337:
+60
+
+Generation 338:
+40
+
+Generation 339:
+70
+
+Generation 340:
+60
+
+Generation 341:
+40
+
+Generation 342:
+40
+
+Generation 343:
+30
+
+Generation 344:
+20
+
+Generation 345:
+60
+
+Generation 346:
+20
+
+Generation 347:
+20
+
+Generation 348:
+40
+
+Generation 349:
+50
+
+Generation 350:
+20
+
+Generation 351:
+20
+
+Generation 352:
+40
+
+Generation 353:
+70
+
+Generation 354:
+60
+
+Generation 355:
+20
+
+Generation 356:
+10
+
+Generation 357:
+20
+
+Generation 358:
+50
+
+Generation 359:
+40
+
+Generation 360:
+30
+
+Generation 361:
+30
+
+Generation 362:
+0
+
+Generation 363:
+20
+
+Generation 364:
+20
+
+Generation 365:
+60
+
+Generation 366:
+20
+
+Generation 367:
+50
+
+Generation 368:
+40
+
+Generation 369:
+20
+
+Generation 370:
+30
+
+Generation 371:
+20
+
+Generation 372:
+60
+
+Generation 373:
+0
+
+Generation 374:
+30
+
+Generation 375:
+10
+
+Generation 376:
+10
+
+Generation 377:
+40
+
+Generation 378:
+20
+
+Generation 379:
+60
+
+Generation 380:
+30
+
+Generation 381:
+50
+
+Generation 382:
+50
+
+Generation 383:
+30
+
+Generation 384:
+30
+
+Generation 385:
+0
+
+Generation 386:
+40
+
+Generation 387:
+0
+
+Generation 388:
+40
+
+Generation 389:
+10
+
+Generation 390:
+50
+
+Generation 391:
+40
+
+Generation 392:
+50
+
+Generation 393:
+20
+
+Generation 394:
+40
+
+Generation 395:
+30
+
+Generation 396:
+40
+
+Generation 397:
+60
+
+Generation 398:
+40
+
+Generation 399:
+30
+
+Generation 400:
+50
+
+Generation 401:
+20
+
+Generation 402:
+40
+
+Generation 403:
+50
+
+Generation 404:
+30
+
+Generation 405:
+10
+
+Generation 406:
+40
+
+Generation 407:
+30
+
+Generation 408:
+30
+
+Generation 409:
+40
+
+Generation 410:
+20
+
+Generation 411:
+20
+
+Generation 412:
+0
+
+Generation 413:
+50
+
+Generation 414:
+0
+
+Generation 415:
+20
+
+Generation 416:
+10
+
+Generation 417:
+50
+
+Generation 418:
+20
+
+Generation 419:
+50
+
+Generation 420:
+30
+
+Generation 421:
+30
+
+Generation 422:
+50
+
+Generation 423:
+30
+
+Generation 424:
+30
+
+Generation 425:
+30
+
+Generation 426:
+30
+
+Generation 427:
+20
+
+Generation 428:
+30
+
+Generation 429:
+40
+
+Generation 430:
+40
+
+Generation 431:
+20
+
+Generation 432:
+50
+
+Generation 433:
+20
+
+Generation 434:
+10
+
+Generation 435:
+40
+
+Generation 436:
+30
+
+Generation 437:
+40
+
+Generation 438:
+50
+
+Generation 439:
+10
+
+Generation 440:
+50
+
+Generation 441:
+50
+
+Generation 442:
+30
+
+Generation 443:
+40
+
+Generation 444:
+30
+
+Generation 445:
+50
+
+Generation 446:
+30
+
+Generation 447:
+20
+
+Generation 448:
+50
+
+Generation 449:
+20
+
+Generation 450:
+40
+
+Generation 451:
+60
+
+Generation 452:
+20
+
+Generation 453:
+40
+
+Generation 454:
+60
+
+Generation 455:
+60
+
+Generation 456:
+20
+
+Generation 457:
+70
+
+Generation 458:
+20
+
+Generation 459:
+30
+
+Generation 460:
+30
+
+Generation 461:
+40
+
+Generation 462:
+20
+
+Generation 463:
+20
+
+Generation 464:
+40
+
+Generation 465:
+30
+
+Generation 466:
+30
+
+Generation 467:
+20
+
+Generation 468:
+30
+
+Generation 469:
+30
+
+Generation 470:
+20
+
+Generation 471:
+30
+
+Generation 472:
+40
+
+Generation 473:
+20
+
+Generation 474:
+30
+
+Generation 475:
+50
+
+Generation 476:
+30
+
+Generation 477:
+40
+
+Generation 478:
+50
+
+Generation 479:
+10
+
+Generation 480:
+40
+
+Generation 481:
+30
+
+Generation 482:
+20
+
+Generation 483:
+10
+
+Generation 484:
+50
+
+Generation 485:
+20
+
+Generation 486:
+50
+
+Generation 487:
+50
+
+Generation 488:
+40
+
+Generation 489:
+20
+
+Generation 490:
+40
+
+Generation 491:
+30
+
+Generation 492:
+10
+
+Generation 493:
+50
+
+Generation 494:
+30
+
+Generation 495:
+70
+
+Generation 496:
+20
+
+Generation 497:
+50
+
+Generation 498:
+20
+
+Generation 499:
+10
+
+Generation 500:
+40
